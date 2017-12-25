@@ -21,7 +21,7 @@ const CONF = {
         port: 3306,
         user: 'root',
         db: 'cAuth',
-        pass: 1',
+        pass: 'wx6331522aea3c1b87',
         char: 'utf8mb4'
     },
 
@@ -34,7 +34,7 @@ const CONF = {
         // Bucket 名称
         fileBucket: 'qcloudtest',
         // 文件夹
-        uploadrFolder: ''
+        uploadFolder: ''
     },
 
     // 微信登录态有效期
